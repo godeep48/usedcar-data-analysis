@@ -1,4 +1,4 @@
-<h2>Analysis of Used Car Dataset</h2>
+<h1>Analysis of Used Car Dataset</h1>
 <h3>Project Motivation</h3>
 <p>This project tries to compare various variable in the Used Car dataset, find their correlation and predict their Car's Price. Also the following methods are been used to obtain the best outcome from the Dataset</p>
  <ul>
