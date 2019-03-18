@@ -24,3 +24,6 @@
   <li>An Html copy of the jupyter notebook</li>
   
 <h3>Result of Analysis</h3>
+  <li>Found the important variables, that should be used to predict the Car's prices.</li>
+  <li>Found the Correlation between independent variable and dependent using various methods.</li>
+  <li>Found the perfect method and its suitable hyperparameters to predict the Car's Prices.</li>
